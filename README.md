@@ -1,13 +1,15 @@
 # Favorites (收藏)
 
-Some favorite binaries, like apps, images and videos, for mirror access, esp. for China mainland users.
+Some favorites(e.g.: apps, images and videos) for mirror access, esp. for China mainland users.
 
-See the [Releases](https://github.com/Fenlly/favorites/releases) page for mirror downloads.
+See also the [`Releases` page（发布页面）](https://github.com/Fenlly/favorites/releases) for mirror downloads.
 
 
 ## 1. Signal - Private Messenger (暗号：私密信使)
 
-[Signal official website](https://signal.org)
+[Signal Official Website](https://signal.org)
+
+[Signal Official Support](https://support.signal.org) ( 含 [简体中文版](https://support.signal.org/hc/zh-cn) )
 
 ### 1.1 Introduction (介绍)
 
@@ -28,7 +30,7 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
 ### 1.2 Mirror Downloads (镜像下载)
 
-- [Signal for iOS (App Store)](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
+- [Signal for iOS (App Store)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669?mt=8)
 
 - [Signal for Android](https://github.com/Fenlly/favorites/releases/download/latest/signal-website-release.apk)
 
@@ -38,7 +40,7 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
 - [Signal for Linux (Debian-based)](https://github.com/Fenlly/favorites/releases/download/latest/signal-desktop-amd64.deb)
 
-Visit the "[Signal download and installation notes in this Fenlly's repository](https://github.com/Fenlly/favorites/blob/master/signal-download-notes.md#signal---private-messenger)" for more details.
+Visit the "[Signal download and installation notes in the Fenlly's `favorites` repository](https://github.com/Fenlly/favorites/blob/master/signal-download-notes.md#signal---private-messenger)" for more details.
 
 
 ## 2. WhatsApp Messenger (瓦次普信使)
@@ -72,6 +74,8 @@ WhatsApp supports iOS, Android, macOS, Windows and some other mobile platforms.
 
 ## 3. References (参考)
 
+- [Signal 官方支持](https://support.signal.org)：[简体中文](https://support.signal.org/hc/zh-cn)
+
 - 平民博客（中文）：《[安全即时通讯 (Secure IM)](https://pingmin.me/post/secure-im.html)》
 
 - 维基百科（英文）：[End-to-End Encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) (E2EE, 端到端加密)
@@ -93,5 +97,7 @@ WhatsApp supports iOS, Android, macOS, Windows and some other mobile platforms.
 
 _(END)_
 
+---
+
     Pingmin Fenlly Liu
-    20170829 - 20181127
+    20170829 - 20190917
