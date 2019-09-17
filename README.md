@@ -86,7 +86,7 @@ WhatsApp supports iOS, Android, macOS, Windows and some other mobile platforms.
 
 - 维基百科（英文）：[WhatsApp](https://en.wikipedia.org/wiki/WhatsApp) (瓦次普)
 
-- 维基百科（英文）：[Signal Protocol](https://en.wikipedia.org/wiki/Signal Protocol) (暗号协议)
+- 维基百科（英文）：[Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol) (暗号协议)
 
 - 维基百科（英文）：[Signal Foundation](https://en.wikipedia.org/wiki/Signal_Foundation) (暗号基金会)
 
