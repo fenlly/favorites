@@ -2,11 +2,11 @@
 
 Some favorites(e.g.: apps, images and videos) for mirror access, esp. for China mainland users.
 
-    资料收藏（如：应用、图片和视频），供内地镜像访问。
+> 资料收藏（如：应用、图片和视频），供内地镜像访问。
 
 See the [Releases](https://github.com/Fenlly/favorites/releases) page directly for mirror downloads.
 
-    另可直接访问此“[发布](https://github.com/Fenlly/favorites/releases)”页面以下载。
+> 另可直接访问此“[发布](https://github.com/Fenlly/favorites/releases)”页面以下载。
 
 
 ## 1. Signal - Private Messenger (暗号：私密信使)
