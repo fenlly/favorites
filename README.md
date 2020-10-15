@@ -2,11 +2,11 @@
 
 Some favorites(e.g.: apps, images and videos) for mirror access, esp. for China mainland users.
 
-See the [Releases](https://github.com/Fenlly/favorites/releases) page directly for mirror downloads.
+See the [Releases](https://github.com/FENLLY/favorites/releases) page directly for mirror downloads.
 
 > 资料收藏（如：应用、图片和视频），供内地镜像访问。
 >
-> 另可直接访问此“[发布](https://github.com/Fenlly/favorites/releases)”页面以下载。
+> 另可直接访问此“[发布](https://github.com/FENLLY/favorites/releases)”页面以下载。
 
 
 ## 1. Signal - Private Messenger (暗号：私密信使)
@@ -36,15 +36,15 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
 - [Signal for iOS (App Store)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669?mt=8)
 
-- [Signal for Android](https://github.com/Fenlly/favorites/releases/download/latest/signal-website-release.apk)
+- [Signal for Android](https://github.com/FENLLY/favorites/releases/download/latest/signal-website-release.apk)
 
-- [Signal for macOS](https://github.com/Fenlly/favorites/releases/download/latest/signal-desktop-mac.zip)
+- [Signal for macOS](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-mac.zip)
 
-- [Signal for Windows](https://github.com/Fenlly/favorites/releases/download/latest/signal-desktop-win.exe)
+- [Signal for Windows](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-win.exe)
 
-- [Signal for Linux (Debian-based)](https://github.com/Fenlly/favorites/releases/download/latest/signal-desktop-amd64.deb)
+- [Signal for Linux (Debian-based)](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-amd64.deb)
 
-Visit the "[Signal download and installation notes in the Fenlly's `favorites` repository](https://github.com/Fenlly/favorites/blob/master/signal-download-notes.md#signal---private-messenger)" for more details.
+Visit the "[Signal download and installation notes in the FENLLY's `favorites` repository](https://github.com/FENLLY/favorites/blob/master/signal-download-notes.md#signal---private-messenger)" for more details.
 
 
 ## 2. WhatsApp Messenger (瓦次普信使)
@@ -67,20 +67,20 @@ WhatsApp supports iOS, Android, macOS, Windows and some other mobile platforms.
 
 - [WhatsApp for iOS (App Store)](https://itunes.apple.com/us/app/whatsapp-messenger/id310633997?mt=8)
 
-- [WhatsApp for Android](https://github.com/Fenlly/favorites/releases/download/latest/WhatsApp.apk)
+- [WhatsApp for Android](https://github.com/FENLLY/favorites/releases/download/latest/WhatsApp.apk)
 
-- [WhatsApp for macOS](https://github.com/Fenlly/favorites/releases/download/latest/WhatsApp.dmg)
+- [WhatsApp for macOS](https://github.com/FENLLY/favorites/releases/download/latest/WhatsApp.dmg)
 
-- [WhatsApp for Windows (64 Bit)](https://github.com/Fenlly/favorites/releases/download/latest/WhatsAppSetup-64bit.exe)
+- [WhatsApp for Windows (64 Bit)](https://github.com/FENLLY/favorites/releases/download/latest/WhatsAppSetup-64bit.exe)
 
-- [WhatsApp for Windows (32 Bit)](https://github.com/Fenlly/favorites/releases/download/latest/WhatsAppSetup-32bit.exe)
+- [WhatsApp for Windows (32 Bit)](https://github.com/FENLLY/favorites/releases/download/latest/WhatsAppSetup-32bit.exe)
 
 
 ## 3. References (参考)
 
 - [Signal 官方支持](https://support.signal.org)：[简体中文](https://support.signal.org/hc/zh-cn)
 
-- 平民博客（中文）：《[安全即时通讯 (Secure IM)](https://pingmin.me/post/secure-im.html)》
+- 平民博客（中文）：《[安全即时通讯 (Secure IM)](https://pingmin.blog/post/secure-im.html)》
 
 - 维基百科（英文）：[End-to-End Encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) (E2EE, 端到端加密)
 
