@@ -15,6 +15,8 @@ See the [Releases](https://github.com/FENLLY/favorites/releases) page directly f
 
 [Signal Official Support](https://support.signal.org) ( 含 [简体中文版](https://support.signal.org/hc/zh-cn) )
 
+[Signal on GitHub](https://github.com/signalapp)
+
 ### 1.1 Introduction (介绍)
 
 From Wikipedia (摘自维基百科):
@@ -47,33 +49,29 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 Visit the "[Signal download and installation notes in the FENLLY's `favorites` repository](https://github.com/FENLLY/favorites/blob/master/signal-download-notes.md#signal---private-messenger)" for more details.
 
 
-## 2. WhatsApp Messenger (瓦次普信使)
+## 2. Session - Private Messenger （会话：私秘信使/聊天工具）
 
-[WhatsApp official website](https://www.whatsapp.com)
+[Session Official Website](https://getsession.org/)
+
+[Session on GitHub](https://github.com/loki-project)
 
 ### 2.1 Introduction (介绍)
 
-From Wikipedia (摘自维基百科):
+Session is from [Loki Project](https://getsession.org)(by the [Loki Foundation](https://loki.foundation) in Australia).
 
-> On April 5, 2016, WhatsApp and Open Whisper Systems announced that they had finished
-> adding end-to-end encryption to "every form of communication" on WhatsApp.
->
-> 译：2016 年 4 月 5 日，WhatsApp 公司和开放密语系统公司宣布，他们完成了对 WhatsApp 中
-> 所有通信的端到端加密支持。
+> 会话（私秘聊天工具）出自澳大利亚的 [Loki 基金会](https://loki.foundation)运作的 [Loki 项目](https://getsession.org).
 
-WhatsApp supports iOS, Android, macOS, Windows and some other mobile platforms.
+Session messenger is forked from Signal messenger, but uses the onion routing and doesn't need phone numbers(Use unique IDs instead).
 
-### 2.2 Mirror Downloads (镜像下载)
+> 会话（私秘聊天工具）是基于暗号开发的，但使用了洋葱路由网络及无需手机号注册（由唯一 ID 代替）。
 
-- [WhatsApp for iOS (App Store)](https://itunes.apple.com/us/app/whatsapp-messenger/id310633997?mt=8)
+### 2.2 [Official Downloads (官方下载)](https://getsession.org/download)
 
-- [WhatsApp for Android](https://github.com/FENLLY/favorites/releases/download/latest/WhatsApp.apk)
+- Session for iOS ([Official GitHub Releases](https://github.com/loki-project/session-ios/releases), or [App Store](https://apps.apple.com/cn/app/session-private-messenger/id1470168868))
 
-- [WhatsApp for macOS](https://github.com/FENLLY/favorites/releases/download/latest/WhatsApp.dmg)
+- Session for Android([Official GitHub Releases](https://github.com/loki-project/session-android/releases), or [Google Play](https://play.google.com/store/apps/details?id=network.loki.messenger))
 
-- [WhatsApp for Windows (64 Bit)](https://github.com/FENLLY/favorites/releases/download/latest/WhatsAppSetup-64bit.exe)
-
-- [WhatsApp for Windows (32 Bit)](https://github.com/FENLLY/favorites/releases/download/latest/WhatsAppSetup-32bit.exe)
+- [Session for Desktop(Linux, macOS, and Windows)](https://github.com/loki-project/session-desktop/releases)
 
 
 ## 3. References (参考)
@@ -92,8 +90,6 @@ WhatsApp supports iOS, Android, macOS, Windows and some other mobile platforms.
 
 - 维基百科（英文）：[Signal (software)](https://en.wikipedia.org/wiki/Signal_(software)) (暗号)
 
-- 维基百科（英文）：[WhatsApp](https://en.wikipedia.org/wiki/WhatsApp) (瓦次普)
-
 - 维基百科（英文）：[Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol) (暗号协议)
 
 - 维基百科（英文）：[Signal Foundation](https://en.wikipedia.org/wiki/Signal_Foundation) (暗号基金会)
@@ -104,4 +100,4 @@ _(END)_
 ---
 
     Pingmin Fenlly Liu
-    20170829 - 20190917
+    20170829 - 20201023
