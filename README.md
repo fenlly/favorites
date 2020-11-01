@@ -2,14 +2,14 @@
 
 Some favorites(e.g.: apps, images and videos) for mirror access, esp. for China mainland users.
 
-See the [Releases](https://github.com/FENLLY/favorites/releases) page directly for mirror downloads.
+See the [**Releases**](https://github.com/FENLLY/favorites/releases) page directly for latest downloads.
 
 > 资料收藏（如：应用、图片和视频），供内地镜像访问。
 >
-> 另可直接访问此“[发布](https://github.com/FENLLY/favorites/releases)”页面以下载。
+> 另可直接访问此“[**发布**](https://github.com/FENLLY/favorites/releases)”页面查看最新版的链接以下载等。
 
 
-## 1. Signal - Private Messenger (暗号：私密信使)
+## 1. Signal - Private Messenger (暗号：私密信使/聊天工具)
 
 [Signal Official Website](https://signal.org)
 
@@ -24,7 +24,7 @@ From Wikipedia (摘自维基百科):
 > Signal uses end-to-end encryption to secure all communications to other Signal
 > users.
 >
-> 译：暗号（私密聊天工具）使用**端到端加密**来保证与其他暗号用户之间的所有通信（包括名字、
+> 译：暗号（私密聊天工具）使用**端到端加密（或叫点对点加密）**来保证与其他暗号用户之间的所有通信（包括名字、
 > 头像、文本、语音、图片、文件和音视频通话）的安全。
 >
 > Signal is developed by Open Whisper Systems. The clients are published as free
@@ -36,7 +36,7 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
 ### 1.2 Mirror Downloads (镜像下载)
 
-- [Signal for iOS (App Store)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669?mt=8)
+- [Signal for iOS (App Store)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669)
 
 - [Signal for Android](https://github.com/FENLLY/favorites/releases/download/latest/signal-website-release.apk)
 
@@ -100,4 +100,4 @@ _(END)_
 ---
 
     Pingmin Fenlly Liu
-    20170829 - 20201023
+    20170829 - 20201101
