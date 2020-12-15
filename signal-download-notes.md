@@ -20,11 +20,9 @@ https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8
 
 ### Android
 
-https://updates.signal.org/android/Signal-website-universal-release-4.47.6.apk
-
-(Old style URL: https://updates.signal.org/android/Signal-website-release-4.36.2.apk )
-
 https://signal.org/android/apk/
+
+https://updates.signal.org/android/Signal-Android-website-prod-universal-release-5.0.5.apk
 
 https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
 
@@ -33,15 +31,15 @@ https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
 
 #### (1) macOS
 
-https://updates.signal.org/desktop/signal-desktop-mac-1.27.2.zip
+https://updates.signal.org/desktop/signal-desktop-mac-1.39.2.zip
 
 #### (2) Windows
 
-https://updates.signal.org/desktop/signal-desktop-win-1.27.2.exe
+https://updates.signal.org/desktop/signal-desktop-win-1.39.2.exe
 
 #### (3) Linux (Debian-based)
 
-https://updates.signal.org/desktop/apt/pool/main/s/signal-desktop/signal-desktop_1.27.2_amd64.deb
+https://updates.signal.org/desktop/apt/pool/main/s/signal-desktop/signal-desktop_1.39.2_amd64.deb
 
 > Debian-based Linux installation instructions with official repository:
 >
@@ -65,13 +63,19 @@ https://github.com/signalapp/Signal-Desktop
 https://github.com/signalapp/Signal-Server
 
 
-### Reference
+### References
 
-https://pingmin.me/post/secure-im.html
+https://pingmin.blog/post/secure-im.html
 
-https://pingmin.github.io/post/secure-im.html
+https://fenlly.org/favorites/
+
+
+https://pingmin.me/blog/post/secure-im.html
+
+https://pingmin.github.io/blog/post/secure-im.html
 
 https://fenlly.github.io/favorites/
+
 
 https://pan.baidu.com/s/1miFtFxI
 
@@ -79,4 +83,4 @@ https://pan.baidu.com/s/1miFtFxI
 
 > Pingmin Fenlly Liu
 >
-> 20171212 - 20190917
+> 20171212 - 20201215
