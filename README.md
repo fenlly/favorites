@@ -46,7 +46,7 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
 - [Signal for Linux (Debian-based)](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-amd64.deb)
 
-Visit the "[Signal download and installation notes](https://fenlly.org/favorites/signal-download-notes.html)" for more details.
+Visit the "[Signal download and installation notes](https://fenlly.org/favorites/signal-download-notes.html)" and its [MarkDown page](https://github.com/FENLLY/favorites/blob/master/signal-download-notes.md#download-notes-for-the-signal---private-messenger) for more details.
 
 
 ## 2. Session - Private Messenger （会话：私秘信使/聊天工具）
