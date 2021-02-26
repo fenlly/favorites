@@ -53,7 +53,7 @@ Visit the "[Signal download and installation notes in the FENLLY's `favorites` r
 
 [Session Official Website](https://getsession.org/)
 
-[Session on GitHub](https://github.com/loki-project)
+[Session on GitHub](https://github.com/oxen-io/)
 
 ### 2.1 Introduction (介绍)
 
@@ -67,11 +67,11 @@ Session messenger is forked from Signal messenger, but uses the onion routing an
 
 ### 2.2 [Official Downloads (官方下载)](https://getsession.org/download)
 
-- Session for iOS ([Official GitHub Releases](https://github.com/loki-project/session-ios/releases), or [App Store](https://apps.apple.com/cn/app/session-private-messenger/id1470168868))
+- Session for iOS ([Official GitHub Releases](https://github.com/oxen-io/session-ios/releases), or [App Store](https://apps.apple.com/cn/app/session-private-messenger/id1470168868))
 
-- Session for Android([Official GitHub Releases](https://github.com/loki-project/session-android/releases), or [Google Play](https://play.google.com/store/apps/details?id=network.loki.messenger))
+- Session for Android([Official GitHub Releases](https://github.com/oxen-io/session-android/releases), or [Google Play](https://play.google.com/store/apps/details?id=network.loki.messenger))
 
-- [Session for Desktop(Linux, macOS, and Windows)](https://github.com/loki-project/session-desktop/releases)
+- [Session for Desktop(Linux, macOS, and Windows)](https://github.com/oxen-io/session-desktop/releases)
 
 
 ## 3. References (参考)
@@ -101,4 +101,4 @@ _(END)_
 
 > [Pingmin Fenlly Liu](https://pingmin.me)
 >
-> 20170829 - 20201101
+> 20170829 - 20210226
