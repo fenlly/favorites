@@ -22,7 +22,7 @@ https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8
 
 https://signal.org/android/apk/
 
-https://updates.signal.org/android/Signal-Android-website-prod-universal-release-5.0.5.apk
+https://updates.signal.org/android/Signal-Android-website-prod-universal-release-5.4.7.apk
 
 https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
 
@@ -31,15 +31,17 @@ https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
 
 #### (1) macOS
 
-https://updates.signal.org/desktop/signal-desktop-mac-1.39.2.zip
+https://updates.signal.org/desktop/signal-desktop-mac-1.40.1.dmg
+
+https://updates.signal.org/desktop/signal-desktop-mac-1.40.1.zip
 
 #### (2) Windows
 
-https://updates.signal.org/desktop/signal-desktop-win-1.39.2.exe
+https://updates.signal.org/desktop/signal-desktop-win-1.40.1.exe
 
 #### (3) Linux (Debian-based)
 
-https://updates.signal.org/desktop/apt/pool/main/s/signal-desktop/signal-desktop_1.39.2_amd64.deb
+https://updates.signal.org/desktop/apt/pool/main/s/signal-desktop/signal-desktop_1.40.1_amd64.deb
 
 > Debian-based Linux installation instructions with official repository:
 >
@@ -83,4 +85,4 @@ https://pan.baidu.com/s/1miFtFxI
 
 > Pingmin Fenlly Liu
 >
-> 20171212 - 20201215
+> 20171212 - 20210226
