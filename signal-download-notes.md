@@ -1,5 +1,7 @@
 ## Signal - Private Messenger
 
+[Signal Official Website](https://signal.org)
+
 https://signal.org
 
 https://signal.org/download
@@ -13,16 +15,29 @@ https://support.signal.org/hc/zh-cn
 
 ### iOS
 
+[Signal for iOS (App Store, P.R.China)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669?mt=8)
+
 https://itunes.apple.com/cn/app/signal-private-messenger/id874139669?mt=8
+
+[Signal for iOS (App Store, USA)](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
 
 https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8
 
 
 ### Android
 
+[Signal Android APK (Website Build Release Download, esp. for users who can't access to Google Play store)](https://signal.org/android/apk/)
+
 https://signal.org/android/apk/
 
-https://updates.signal.org/android/Signal-Android-website-prod-universal-release-5.4.7.apk
+( e.g.:
+
+[The current(by 20210226) latest Signal Android version](https://updates.signal.org/android/Signal-Android-website-prod-universal-release-5.4.7.apk)
+
+https://updates.signal.org/android/Signal-Android-website-prod-universal-release-5.4.7.apk )
+
+
+[Signal on Google Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 
 https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
 
@@ -66,6 +81,8 @@ https://github.com/signalapp/Signal-Server
 
 
 ### References
+
+[《安全即时通讯（Secure IM）》](https://pingmin.blog/post/secure-im.html)
 
 https://pingmin.blog/post/secure-im.html
 
