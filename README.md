@@ -1,4 +1,4 @@
-# Favorites (收藏)
+# FENLLY's Favorites (FENLLY 收藏)
 
 Some [favorites](https://fenlly.org/favorites/)(e.g.: apps, images and videos), used by [FENLLY™ Foundation](https://fenlly.org), for mirror access, esp. for China mainland users.
 

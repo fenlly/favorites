@@ -1,4 +1,4 @@
-## Signal - Private Messenger
+## Download Notes for the "Signal - Private Messenger"
 
 [Signal Official Website](https://signal.org)
 
