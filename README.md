@@ -1,6 +1,6 @@
-# FENLLY's Favorites (FENLLY 收藏)
+# FENLLY® Favorites (FENLLY® 收藏)
 
-Some [favorites](https://fenlly.org/favorites/)(e.g.: apps, images and videos), used by [FENLLY™ Foundation](https://fenlly.org), for mirror access, esp. for China mainland users.
+Some [favorites](https://fenlly.org/favorites/)(e.g.: apps, images and videos), used by the [FENLLY® Foundation](https://fenlly.org), for mirror access, esp. for China mainland users.
 
 See the [**Releases**](https://github.com/FENLLY/favorites/releases) page directly for latest downloads.
 
@@ -101,4 +101,4 @@ _(END)_
 
 > [Pingmin Fenlly Liu](https://pingmin.me)
 >
-> 20170829 - 20210226
+> 20170829 - 20210315
