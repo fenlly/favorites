@@ -11,6 +11,8 @@ See the [**Releases**](https://github.com/FENLLY/favorites/releases) page direct
 
 ## 1. Signal - Private Messenger (暗号：私密信使/聊天工具)
 
+> 注：Signal 已于 20210316 被内地屏蔽。
+
 [Signal Official Website](https://signal.org)
 
 [Signal Official Support](https://support.signal.org) ( 含 [简体中文版](https://support.signal.org/hc/zh-cn) )
