@@ -1,6 +1,6 @@
-# FENLLY® Favorites (FENLLY® 收藏)
+# FENLLY<sup>®</sup> Favorites (FENLLY<sup>®</sup> 收藏)
 
-Some [favorites](https://fenlly.org/favorites/)(e.g.: apps, images and videos), used by the [FENLLY® Foundation](https://fenlly.org), for mirror access, esp. for China mainland users.
+Some [favorites](https://fenlly.org/favorites/)(e.g.: apps, images and videos), used by the [FENLLY<sup>®</sup> Foundation](https://fenlly.org), for mirror access, esp. for China mainland users.
 
 See the [**Releases**](https://github.com/FENLLY/favorites/releases) page directly for latest downloads.
 
