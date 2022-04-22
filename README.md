@@ -9,7 +9,32 @@ See the [**Releases**](https://github.com/FENLLY/favorites/releases) page direct
 > 另可直接访问此“[**发布**](https://github.com/FENLLY/favorites/releases)”页面查看最新版的链接以下载等。
 
 
-## 1. Signal - Private Messenger (暗号：私密信使/聊天工具)
+## 1. Session - Private Messenger （会话：私秘信使/聊天工具）
+
+[Session Official Website](https://getsession.org/)
+
+[Session on GitHub](https://github.com/oxen-io/)
+
+### 1.1 Introduction (介绍)
+
+Session is from [Loki Project](https://getsession.org)(by the [Loki Foundation](https://loki.foundation) in Australia).
+
+> 会话（私秘聊天工具）出自澳大利亚的 [Loki 基金会](https://loki.foundation)运作的 [Loki 项目](https://getsession.org).
+
+Session messenger is forked from Signal messenger, but uses the onion routing and doesn't need phone numbers(Use unique IDs instead).
+
+> 会话（私秘聊天工具）是基于暗号开发的，但使用了洋葱路由网络及无需手机号注册（由唯一 ID 代替）。
+
+### 1.2 [Official Downloads (官方下载)](https://getsession.org/download)
+
+- Session for iOS ([Official GitHub Releases](https://github.com/oxen-io/session-ios/releases), or [App Store](https://apps.apple.com/cn/app/session-private-messenger/id1470168868))
+
+- Session for Android([Official GitHub Releases](https://github.com/oxen-io/session-android/releases), or [Google Play](https://play.google.com/store/apps/details?id=network.loki.messenger))
+
+- [Session for Desktop(Linux, macOS, and Windows)](https://github.com/oxen-io/session-desktop/releases)
+
+
+## 2. Signal - Private Messenger (暗号：私密信使/聊天工具)
 
 > 注：Signal 已于 20210316 被内地屏蔽。
 
@@ -19,7 +44,7 @@ See the [**Releases**](https://github.com/FENLLY/favorites/releases) page direct
 
 [Signal on GitHub](https://github.com/signalapp)
 
-### 1.1 Introduction (介绍)
+### 2.1 Introduction (介绍)
 
 From Wikipedia (摘自维基百科):
 
@@ -36,7 +61,7 @@ From Wikipedia (摘自维基百科):
 
 Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
-### 1.2 Mirror Downloads (镜像下载)
+### 2.2 Mirror Downloads (镜像下载)
 
 - [Signal for iOS (App Store)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669)
 
@@ -49,31 +74,6 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 - [Signal for Linux (Debian-based)](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-amd64.deb)
 
 Visit the "[Signal download and installation notes](https://fenlly.org/favorites/signal-download-notes.html)" and its [MarkDown page](https://github.com/FENLLY/favorites/blob/master/signal-download-notes.md#download-notes-for-the-signal---private-messenger) for more details.
-
-
-## 2. Session - Private Messenger （会话：私秘信使/聊天工具）
-
-[Session Official Website](https://getsession.org/)
-
-[Session on GitHub](https://github.com/oxen-io/)
-
-### 2.1 Introduction (介绍)
-
-Session is from [Loki Project](https://getsession.org)(by the [Loki Foundation](https://loki.foundation) in Australia).
-
-> 会话（私秘聊天工具）出自澳大利亚的 [Loki 基金会](https://loki.foundation)运作的 [Loki 项目](https://getsession.org).
-
-Session messenger is forked from Signal messenger, but uses the onion routing and doesn't need phone numbers(Use unique IDs instead).
-
-> 会话（私秘聊天工具）是基于暗号开发的，但使用了洋葱路由网络及无需手机号注册（由唯一 ID 代替）。
-
-### 2.2 [Official Downloads (官方下载)](https://getsession.org/download)
-
-- Session for iOS ([Official GitHub Releases](https://github.com/oxen-io/session-ios/releases), or [App Store](https://apps.apple.com/cn/app/session-private-messenger/id1470168868))
-
-- Session for Android([Official GitHub Releases](https://github.com/oxen-io/session-android/releases), or [Google Play](https://play.google.com/store/apps/details?id=network.loki.messenger))
-
-- [Session for Desktop(Linux, macOS, and Windows)](https://github.com/oxen-io/session-desktop/releases)
 
 
 ## 3. References (参考)
