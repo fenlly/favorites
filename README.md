@@ -2,11 +2,11 @@
 
 Some [favorites](https://fenlly.org/favorites/)(e.g.: apps, images and videos), used by the [FENLLY<sup>®</sup> Foundation](https://fenlly.org), for mirror access, esp. for China mainland users.
 
-See the [**Releases**](https://github.com/FENLLY/favorites/releases) page directly for latest downloads.
+See the [**Releases**](https://github.com/fenlly/favorites/releases) page directly for latest downloads.
 
 > 资料收藏（如：应用、图片和视频），供内地镜像访问。
 >
-> 另可直接访问此“[**发布**](https://github.com/FENLLY/favorites/releases)”页面查看最新版的链接以下载等。
+> 另可直接访问此“[**发布**](https://github.com/fenlly/favorites/releases)”页面查看最新版的链接以下载等。
 
 
 ## 1. Session - Private Messenger （会话：私秘信使/聊天工具）
@@ -65,15 +65,15 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
 - [Signal for iOS (App Store)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669)
 
-- [Signal for Android](https://github.com/FENLLY/favorites/releases/download/latest/signal-website-release.apk)
+- [Signal for Android](https://github.com/fenlly/favorites/releases/download/latest/signal-website-release.apk)
 
-- [Signal for macOS](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-mac.zip)
+- [Signal for macOS](https://github.com/fenlly/favorites/releases/download/latest/signal-desktop-mac.zip)
 
-- [Signal for Windows](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-win.exe)
+- [Signal for Windows](https://github.com/fenlly/favorites/releases/download/latest/signal-desktop-win.exe)
 
-- [Signal for Linux (Debian-based)](https://github.com/FENLLY/favorites/releases/download/latest/signal-desktop-amd64.deb)
+- [Signal for Linux (Debian-based)](https://github.com/fenlly/favorites/releases/download/latest/signal-desktop-amd64.deb)
 
-Visit the "[Signal download and installation notes](https://fenlly.org/favorites/signal-download-notes.html)" and its [MarkDown page](https://github.com/FENLLY/favorites/blob/master/signal-download-notes.md#download-notes-for-the-signal---private-messenger) for more details.
+Visit the "[Signal download and installation notes](https://fenlly.org/favorites/signal-download-notes.html)" and its [MarkDown page](https://github.com/fenlly/favorites/blob/master/signal-download-notes.md#download-notes-for-the-signal---private-messenger) for more details.
 
 
 ## 3. References (参考)
