@@ -82,19 +82,11 @@ https://github.com/signalapp/Signal-Server
 
 ### References
 
-[《安全即时通讯（Secure IM）》](https://pingmin.blog/post/secure-im.html)
-
-https://pingmin.blog/post/secure-im.html
-
-https://fenlly.org/favorites/
-
-
-https://pingmin.me/blog/post/secure-im.html
+[《安全即时通讯（Secure IM）》](https://pingmin.github.io/blog/post/secure-im.html)
 
 https://pingmin.github.io/blog/post/secure-im.html
 
 https://fenlly.github.io/favorites/
-
 
 https://pan.baidu.com/s/1miFtFxI
 
