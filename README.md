@@ -27,7 +27,7 @@ Session messenger is forked from Signal messenger, but uses the onion routing an
 
 ### 1.2 [Official Downloads (官方下载)](https://getsession.org/download)
 
-- Session for iOS ([Official GitHub Releases](https://github.com/session-foundation/session-ios/releases), or [App Store](https://apps.apple.com/cn/app/session-private-messenger/id1470168868))
+- Session for iOS ([Official GitHub Releases](https://github.com/session-foundation/session-ios/releases), or [App Store](https://apps.apple.com/us/app/session-private-messenger/id1470168868))
 
 - Session for Android([Official GitHub Releases](https://github.com/session-foundation/session-android/releases), or [Google Play](https://play.google.com/store/apps/details?id=network.loki.messenger))
 
@@ -63,7 +63,7 @@ Signal supports iOS, Android, Linux (Debian-based), macOS and Windows.
 
 ### 2.2 Mirror Downloads (镜像下载)
 
-- [Signal for iOS (App Store)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669)
+- [Signal for iOS (App Store)](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)
 
 - [Signal for Android](https://github.com/fenlly/favorites/releases/download/latest/signal-website-release.apk)
 

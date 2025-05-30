@@ -15,9 +15,9 @@ https://support.signal.org/hc/zh-cn
 
 ### iOS
 
-[Signal for iOS (App Store, P.R.China)](https://itunes.apple.com/cn/app/signal-private-messenger/id874139669?mt=8)
+[Signal for iOS (App Store, P.R.China)](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
 
-https://itunes.apple.com/cn/app/signal-private-messenger/id874139669?mt=8
+https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8
 
 [Signal for iOS (App Store, USA)](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8)
 
